@@ -1,9 +1,0 @@
-Plaintext: HELLO WORLD
-
-=== Caesar Cipher ===
-Encrypted: KHOOR ZRUOG
-Decrypted: HELLO WORLD
-
-=== Vigenere Cipher ===
-Encrypted: SIXZB AAFYO
-Decrypted: HELLO WORLD
